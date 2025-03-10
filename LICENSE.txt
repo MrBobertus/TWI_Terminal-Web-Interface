@@ -18,16 +18,16 @@ following conditions:
     Distribution of modified versions of the Work is permitted for
     non-commercial purposes, provided that the attribution requirements are met.
 
-You can contact me via Email at mr.bobertus.dev@gmail.com to request commercial permission.
+For commercial permission requests or general inquiries, please contact me via email at mr.bobertus.dev@gmail.com.
 
 2. Attribution Required
 
-    Any use of the Work must include the following attribution:
+    Any use of the Work must include the following attribution EXCEPT you have acquired permission from the copyright holder:
     "Copyright (c) 2025 MrBobertus. Original software available at https://github.com/MrBobertus".
 
-3. Contribution Encouraged
+3.  Reciprocal Sharing (Copyleft)
 
-    Users are encouraged to contribute improvements back to the original project.
+    If you distribute modified versions of the Work, you must do so under the terms of this same license (MrBobertus Non-Commercial License).
 
 4. Revocation of Rights
 
@@ -35,13 +35,26 @@ You can contact me via Email at mr.bobertus.dev@gmail.com to request commercial 
     individual or entity at any time for any reason. If access is revoked,
     the user must immediately stop using and distributing the Work.
 
-5. Liability Disclaimer
+5. Disclaimer of Warranty
 
-    The Work is provided "as is", without warranty of any kind. The author is
-    not liable for any damages resulting from its use.
+  THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE
+  WORK.
 
 6. Termination
 
     This license automatically terminates if you fail to comply with its terms.
     Upon termination, you must cease all use, modification, and distribution
     of the Work.
+
+7.  Governing Law
+
+    This license shall be governed by and construed in accordance with the laws of Bavaria , Germany.
+
+8.  Entire Agreement
+
+    This license constitutes the entire agreement between the parties with respect to the Work and supersedes all prior or contemporaneous communications and proposals.
