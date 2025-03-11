@@ -8,7 +8,7 @@ An application that looks and hopefully feels like a command-line interface but 
 Probably nothing cause i want to focus on other things but i have some cool ideas so maybe...
 
 ## Language of code:
-The code inside this repository is written using the language HTML, CSS and JavaScript which is are specific "coding" languages that are used for websites and possible applications (which are also web based).
+The code inside this repository is written using the language HTML, CSS and JavaScript which are specific "coding" languages that are used for websites and possible applications (which are also web based).
 
 ## License
 
