@@ -1,12 +1,5 @@
 /*
-MrBobertus Limited Commercial License (MLCL)
-
-Copyright (c) 2025 MrBobertus
-
-This software is licensed under the MrBobertus Limited Commercial License. See the LICENSE file
-for the full terms and conditions, including attribution requirements,
-contribution encouragement, revocation of rights, liability disclaimer,
-and termination clauses. Commercial use requires explicit permission.
+Copyright (c) 2025 MrBobertus - MIT License (see LICENSE file for details)
 
 Contact: mr.bobertus.dev@gmail.com
 Original Software: https://github.com/MrBobertus
